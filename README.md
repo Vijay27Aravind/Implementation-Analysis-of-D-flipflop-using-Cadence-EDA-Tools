@@ -1,4 +1,4 @@
-![378059608-4f44e14a-a71f-458c-bfef-ece3c34b07a2](https://github.com/user-attachments/assets/7c2a8630-9779-4772-9548-b76a88cb128c)# Implementation-Analysis-of-D-flipflop-using-Cadence-EDA-Tools
+# Implementation-Analysis-of-D-flipflop-using-Cadence-EDA-Tools
 Ex No: 01     Implementation & Analysis of D-flipflop using Cadence EDA Tools   
 
 Aim:
