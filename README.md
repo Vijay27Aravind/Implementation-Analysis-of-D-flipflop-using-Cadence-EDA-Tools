@@ -1,4 +1,4 @@
-# Implementation-Analysis-of-D-flipflop-using-Cadence-EDA-Tools
+![378059608-4f44e14a-a71f-458c-bfef-ece3c34b07a2](https://github.com/user-attachments/assets/7c2a8630-9779-4772-9548-b76a88cb128c)# Implementation-Analysis-of-D-flipflop-using-Cadence-EDA-Tools
 Ex No: 01     Implementation & Analysis of D-flipflop using Cadence EDA Tools   
 
 Aim:
@@ -47,7 +47,8 @@ ii)	Create Schematic Cell view.
 	Create Input and Output pins
 	Make the connections by using fixed narrow wire key
 	Click Check and Save button
-![IMG-20241019-WA0012](https://github.com/user-attachments/assets/34ba817f-3261-4ea3-b4e2-6be450b2207d)
+![378041260-34ba817f-3261-4ea3-b4e2-6be450b2207d](https://github.com/user-attachments/assets/3304fde7-92cd-4a75-af32-888db8c3ce13)
+
 
 
 
@@ -66,7 +67,8 @@ iii)	Creating the Symbol for schematic Cell view
 •	Check for the position of pin side.Prss OK
 •	Edit for the shape by Create-Shape-Choose required options to edit.
 
-![IMG-20241019-WA0009](https://github.com/user-attachments/assets/9bef70c1-ffa3-4680-ac29-d4c5e03d792e)
+![378059554-c7827235-bbf1-4fcf-882a-3d7526f47a16](https://github.com/user-attachments/assets/1122acab-b755-44fe-b9ea-d1dc84eacade)
+
 
 
 iv)	Creating the new test cell view
@@ -79,7 +81,8 @@ iv)	Creating the new test cell view
 	Type: Schematic press OK
 •	Follow the step 3(ii) d to make the required connections
 
-![IMG-20241019-WA0011](https://github.com/user-attachments/assets/a6e192b4-bc9d-44a0-9007-ab48f2f1acc4)
+![378059566-eaacf6b7-a39c-4f03-889b-c647666faada](https://github.com/user-attachments/assets/3f7c4371-2e42-44a6-a161-b34c955f358e)
+
 
 
  
@@ -92,16 +95,21 @@ Analog simulation by SPECTRE.
 	Select the type and set the specifications and press OK
 	Execute Output s—to be plotted – Select on Schematic
 	Then Select the INPUT WIRE(Vin ) and OUTPUT WIRE(Vout) from your test Schematic using mouse
-•	Execute Simulation -- Net list and Run
+•	Execute Simulation -- Net list and run
+![378041418-e532f49e-b60f-4629-bb39-9f9b4085b36f](https://github.com/user-attachments/assets/c9e319c0-eecc-41a5-940d-ad5c0d942040)
+
  
-![IMG-20241019-WA0010](https://github.com/user-attachments/assets/e532f49e-b60f-4629-bb39-9f9b4085b36f)
+
 
 
 For Transient Analysis Settings and Output
  
- ![IMG-20241019-WA0013](https://github.com/user-attachments/assets/92433262-d11d-460f-899b-5c3d1e661266)
+ ![378041432-92433262-d11d-460f-899b-5c3d1e661266](https://github.com/user-attachments/assets/e14b3947-3d58-4b69-adc7-a868f5406300)
 
- ![IMG-20241019-WA0014](https://github.com/user-attachments/assets/eef27219-4166-4c49-8662-ee7e0ddb6894)
+
+![378059608-4f44e14a-a71f-458c-bfef-ece3c34b07a2](https://github.com/user-attachments/assets/906042f0-ac1f-41fb-964c-944360be0bc4)
+
+
 
 
 Results:
